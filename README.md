@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geniusjames)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geniusjames&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
