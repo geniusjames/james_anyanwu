@@ -23,8 +23,6 @@
 ### Technologies and Tools
 <a href="url"><img src="https://user-images.githubusercontent.com/69020285/130030602-14400d83-414c-4adf-9871-679e3cee048c.png" align="left" height="120" width="120" ></a> 
 <a href="url"><img src="https://raw.githubusercontent.com/oluSammy/oluSammy/master/img/git%20logo-2.png" align="left" height="120" width="120" ></a> <a href="url"><img src="https://raw.githubusercontent.com/oluSammy/oluSammy/master/img/js.png" align="left" height="120" width="120" ></a> 
-<a href="url"><img src="https://raw.githubusercontent.com/oluSammy/oluSammy/master/img/css%20logo-2.png" align="left" height="120" width="120" ></a>
-<a href="url"><img src="https://user-images.githubusercontent.com/69020285/130030708-42c04385-8e11-4380-ab35-7d621c2cc2aa.png" align="left" height="120" width="120" ></a> 
 <a href="url"><img src="https://github.com/oluSammy/oluSammy/blob/master/img/firebase%20logo.png?raw=true" align="left" height="120" width="120" ></a> 
 <a href="url"><img src="https://user-images.githubusercontent.com/69020285/135035986-9b40b0ca-8b0a-400a-abe0-62e365255bae.png" align="left" height="120" width="120" ></a>
 <a href="url"><img src="https://github.com/oluSammy/oluSammy/blob/master/img/vs%20code.png?raw=true" align="left" height="120" width="120" ></a> 
